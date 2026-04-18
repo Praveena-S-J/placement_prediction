@@ -185,4 +185,4 @@ if st.checkbox("Show Raw Data"):
 # FOOTER
 # -----------------------------
 st.markdown("---")
-st.markdown("👩‍💻 Developed by Monisha | Placement Prediction Project")
+st.markdown("👩‍💻 Developed by Praveena| Placement Prediction Project")
